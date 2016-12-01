@@ -1,0 +1,84 @@
+.gwc_l_top{ background: url(../images/bg.gif) no-repeat; background-position:0px 0px; width:199px; height:8px;}
+.gwc_l_bot{ background: url(../images/bg.gif) no-repeat; background-position:0px -16px; width:199px; height:8px;}
+.gwc_l_c{ background: url(../images/gwc_l_bg.gif) repeat-y;width:174px; padding:2px 15px 7px 15px;}
+.gwc_l_c p.title{background: url(../images/bg.gif) no-repeat; background-position:-203px 0px; color:#B1072F; font-size:14px; font-weight:700;  padding-left:24px;}
+.gwc_l_c p{ margin:5px 0 5px 0; padding:0;}
+.add_suc{ border:1px solid #ddd; padding:10px; background:#F8F8F8;}
+.add_suc p{ margin:8px 0 8px 0; padding:0; text-align:center;}
+.add_suc_title,.add_suc_title1{background: url(../images/bg.gif) no-repeat;font-size:16px; font-weight:bold; height:48px; line-height:48px; font-size:16px; font-weight:bold;}
+.add_suc_title{ background-position:10px -25px;}
+.add_suc_title1{background-position:0 -25px;}
+.other_brows{
+width:750px;
+padding:0 0 20px 10px;
+}
+.other_brows ul{
+width:760px;
+margin-bottom:20px;
+}
+.other_brows li{
+width:240px;
+float:left;
+padding:10px 0 0 10px;
+}
+.other_brows .t{ width:115px; float:left; padding-left:8px;}
+.collect p{
+	padding:5px 0 5px 0;
+	margin:0;
+}
+.collect{
+width:980px;
+padding:10px 0 10px 10px;
+}
+.collect ul{
+width:980px;
+margin-bottom:20px;
+}
+.collect li{
+width:310px;
+float:left;
+padding:10px 0 0 10px;
+}
+.collect .t{ width:170px; float:left; padding-left:8px;}
+.ad_gwc_bt{ width:97px; height:26px; padding-left:20px; background:url(../images/gwc.gif) no-repeat; color:#555; line-height:26px; cursor:pointer;}
+.qk_gwc_bt{ width:97px; height:26px; padding-left:16px; background:url(../images/gwc.gif) no-repeat; background-position:0 -27px; color:#555; line-height:26px; cursor:pointer;}
+.del_bt{ width:53px; height:26px; padding-left:16px; background:url(../images/gwc.gif) no-repeat; background-position:0 -81px; color:#555; line-height:26px; cursor:pointer;}
+.gx_gwc_bt{ width:97px; height:26px; padding-left:16px; background:url(../images/gwc.gif) no-repeat; background-position:0 -54px; color:#555; line-height:26px; cursor:pointer;}
+.ad_gwc_bt{ width:97px; height:26px; padding-left:16px; background:url(../images/gwc.gif) no-repeat; color:#555; line-height:26px; cursor:pointer;}
+.ad_gwc_bt{ width:97px; height:26px; padding-left:16px; background:url(../images/gwc.gif) no-repeat; color:#555; line-height:26px; cursor:pointer;}
+.other_brows p{ margin:5px 0 5px 0; padding:0;}
+.gwc_pos{ background:url(../images/my_gwc.jpg) no-repeat;width:634px; height:33px; line-height:33px; margin:0 0 0 180px;}
+.first{ background-position:-1px -4px;}
+.second{ background-position:-1px -42px;}
+.three{ background-position:-1px -80px;}
+.gwc_pos .sel{ width:170px; text-align:center; color:#FFF; font-size:14px; font-weight:700;}
+.gwc_pos .un{ width:170px; text-align:center;}
+.gwc_logo{ background:url(../images/my_gwc.jpg) no-repeat; padding-left:50px; height:42px; line-height:42px; padding-bottom:4px; width:600px; font-size:16px; font-weight:bold;}
+.g_first{ background-position:-2px -122px;}
+.g_sec{ background-position:-2px -164px;}
+.g_three{ background-position:-2px -204px;}
+.bor_t_n{ border:1px solid #CCC; border-top:none; width:978px;}
+.gwc_c{ padding:10px 15px 15px 15px;}
+.gwc_c p{ margin:0; padding:0}
+.gwc_table,.gwc_table tr,.gwc_table td { border:1px solid #DBDBDB; border-collapse:collapse; padding:5px; text-align:center; }
+.gwc_table .title{ background:#F0F0F0;height:20px; font-weight:700; font-size:12px; line-height:20px;}
+.gwc_table .te_r{text-align:right;}
+.gwc_table .title_l{ background:#F0F0F0; text-align:left; height:20px; font-weight:700;}
+.gwc_table1,.gwc_table1 tr,.gwc_table1 td { border:1px solid #E0E0E0; border-collapse:collapse; padding:5px;}
+.gwc_table1 .title{ background:#FAFAFA; text-align:center; height:20px; font-weight:700;}
+.gwc_table1 .title_l{ background:#FAFAFA; text-align:left; height:20px; font-weight:700;}
+.gwc_table1 p,.gwc_table p{ margin:0; padding:0;}
+.gwc_table1 .num,.gwc_table .num{ border:1px solid #CCCCCC; height:20px; line-height:20px; width:45px; color:#666; font-size:12px; font-weight:100;}
+.gwc_table1 .content_l,.gwc_table .content_l{ background:#FFF; text-align:left;}
+.gwc_table1 .content_bot,.gwc_table .content_bot{ background:#FFFCEB; height:50px;}
+.title_120{
+width:120px;
+float:left;
+line-height:140%;
+padding-left:5px;
+}
+.pic_45{
+width:45px;
+height:45px;
+float:left;
+}

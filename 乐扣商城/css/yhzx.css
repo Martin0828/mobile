@@ -1,0 +1,29 @@
+.l_200{
+width:200px;
+float:left;
+}
+.yhzx h2{ background:url(../images/yhzz.gif) no-repeat; width:190px; height:32px; margin:0; font-size:14px; color:#FFF; padding-left:10px; line-height:32px;}
+.yhzx ul{ border:1px solid #ddd; border-top:none;padding:6px 0 20px 0; width:198px;}
+.yhzx ul li{ border-bottom:1px solid #efefef; background:url(../images/yhzz.gif) no-repeat; background-position:0 -85px; width:185px; height:32px; padding:0 0 0 15px; line-height:32px; font-size:14px;}
+.yhzx .sel{ border-bottom:1px solid #efefef; background:url(../images/yhzz.gif) no-repeat; background-position:0 -55px; width:185px; height:32px; padding:0 0 0 15px; line-height:32px; font-size:14px;}
+.yhzx .sel a{ color:#B1072F; display:inline-block; font-weight:700;}
+.w_770_bor{border:1px solid #efefef; width:768px; float:right;}
+.yhzx_title{height:30px;
+line-height:30px;
+padding:0 13px;
+font-size:14px; 
+font-weight:700;
+border-bottom:1px solid #e2e2e2;
+background:url(../images/ej_title_bg.jpg) repeat-x;}
+.hyy{ padding:0px 0 10px 40px;}
+.hyy p{ padding:6px 0 0 0; margin:0;}
+.hyy .gg{ width:663px; border:1px solid #F3E7C7; background:#FFF9EB; padding:15px;}
+.hyy .basic{ width:675px; margin:15px 0 15px 0;}
+.hyy .title_gray{ background:#F8F8F8; height:30px; line-height:30px; font-size:14px; font-weight:700;}
+.hyy .basic,.hyy .basic tr,.hyy .basic td { border:1px solid #e8e8e8; border-collapse:collapse; padding:5px;}
+.hyy .basic .te_r{ text-align:right;}
+.hyy .basic .te_m{ text-align:center;}
+.hyy .basic .inputgray{ border:1px solid #CCC; width:170px; height:18px; line-height:18px;}
+.hyy p{ width:675px;}
+.hyy .line_b{ border-bottom:1px dashed #D0D0D0;}
+.hyy .message .inputgray{ border:1px solid #CCC; width:170px; height:22px; line-height:22px;}
